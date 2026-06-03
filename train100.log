@@ -1,0 +1,505 @@
+[device] cpu
+[ok] 측정 곡선 로딩: 10 pts, I∈[0,9.43], f∈[0,5e+04] Hz
+[data] train=6000 test=1000
+  epoch 1 batch 10/47 loss 1.829
+  epoch 1 batch 20/47 loss 1.040
+  epoch 1 batch 30/47 loss 0.997
+  epoch 1 batch 40/47 loss 0.700
+[epoch 1] loss 1.312 | train 76.8% | test 70.4%
+  epoch 2 batch 10/47 loss 0.810
+  epoch 2 batch 20/47 loss 0.593
+  epoch 2 batch 30/47 loss 0.548
+  epoch 2 batch 40/47 loss 0.455
+[epoch 2] loss 0.570 | train 89.5% | test 84.3%
+  epoch 3 batch 10/47 loss 0.304
+  epoch 3 batch 20/47 loss 0.165
+  epoch 3 batch 30/47 loss 0.426
+  epoch 3 batch 40/47 loss 0.346
+[epoch 3] loss 0.294 | train 93.7% | test 88.7%
+  epoch 4 batch 10/47 loss 0.158
+  epoch 4 batch 20/47 loss 0.092
+  epoch 4 batch 30/47 loss 0.118
+  epoch 4 batch 40/47 loss 0.116
+[epoch 4] loss 0.172 | train 96.9% | test 91.1%
+  epoch 5 batch 10/47 loss 0.103
+  epoch 5 batch 20/47 loss 0.062
+  epoch 5 batch 30/47 loss 0.119
+  epoch 5 batch 40/47 loss 0.110
+[epoch 5] loss 0.122 | train 97.7% | test 92.4%
+  epoch 6 batch 10/47 loss 0.075
+  epoch 6 batch 20/47 loss 0.034
+  epoch 6 batch 30/47 loss 0.084
+  epoch 6 batch 40/47 loss 0.032
+[epoch 6] loss 0.091 | train 98.2% | test 92.6%
+  epoch 7 batch 10/47 loss 0.047
+  epoch 7 batch 20/47 loss 0.079
+  epoch 7 batch 30/47 loss 0.118
+  epoch 7 batch 40/47 loss 0.102
+[epoch 7] loss 0.070 | train 98.5% | test 91.8%
+  epoch 8 batch 10/47 loss 0.069
+  epoch 8 batch 20/47 loss 0.015
+  epoch 8 batch 30/47 loss 0.055
+  epoch 8 batch 40/47 loss 0.043
+[epoch 8] loss 0.049 | train 98.8% | test 92.5%
+  epoch 9 batch 10/47 loss 0.022
+  epoch 9 batch 20/47 loss 0.024
+  epoch 9 batch 30/47 loss 0.029
+  epoch 9 batch 40/47 loss 0.039
+[epoch 9] loss 0.042 | train 98.5% | test 92.2%
+  epoch 10 batch 10/47 loss 0.056
+  epoch 10 batch 20/47 loss 0.008
+  epoch 10 batch 30/47 loss 0.003
+  epoch 10 batch 40/47 loss 0.032
+[epoch 10] loss 0.034 | train 98.9% | test 93.1%
+  epoch 11 batch 10/47 loss 0.006
+  epoch 11 batch 20/47 loss 0.011
+  epoch 11 batch 30/47 loss 0.004
+  epoch 11 batch 40/47 loss 0.021
+[epoch 11] loss 0.025 | train 99.4% | test 93.4%
+  epoch 12 batch 10/47 loss 0.047
+  epoch 12 batch 20/47 loss 0.042
+  epoch 12 batch 30/47 loss 0.021
+  epoch 12 batch 40/47 loss 0.010
+[epoch 12] loss 0.019 | train 99.6% | test 94.8%
+  epoch 13 batch 10/47 loss 0.002
+  epoch 13 batch 20/47 loss 0.013
+  epoch 13 batch 30/47 loss 0.002
+  epoch 13 batch 40/47 loss 0.021
+[epoch 13] loss 0.016 | train 99.6% | test 93.9%
+  epoch 14 batch 10/47 loss 0.002
+  epoch 14 batch 20/47 loss 0.001
+  epoch 14 batch 30/47 loss 0.003
+  epoch 14 batch 40/47 loss 0.021
+[epoch 14] loss 0.016 | train 99.7% | test 93.8%
+  epoch 15 batch 10/47 loss 0.009
+  epoch 15 batch 20/47 loss 0.003
+  epoch 15 batch 30/47 loss 0.006
+  epoch 15 batch 40/47 loss 0.004
+[epoch 15] loss 0.012 | train 99.7% | test 94.7%
+  epoch 16 batch 10/47 loss 0.004
+  epoch 16 batch 20/47 loss 0.001
+  epoch 16 batch 30/47 loss 0.025
+  epoch 16 batch 40/47 loss 0.019
+[epoch 16] loss 0.008 | train 99.8% | test 94.7%
+  epoch 17 batch 10/47 loss 0.001
+  epoch 17 batch 20/47 loss 0.003
+  epoch 17 batch 30/47 loss 0.001
+  epoch 17 batch 40/47 loss 0.001
+[epoch 17] loss 0.007 | train 99.8% | test 94.5%
+  epoch 18 batch 10/47 loss 0.000
+  epoch 18 batch 20/47 loss 0.029
+  epoch 18 batch 30/47 loss 0.002
+  epoch 18 batch 40/47 loss 0.001
+[epoch 18] loss 0.006 | train 99.8% | test 94.4%
+  epoch 19 batch 10/47 loss 0.034
+  epoch 19 batch 20/47 loss 0.001
+  epoch 19 batch 30/47 loss 0.023
+  epoch 19 batch 40/47 loss 0.019
+[epoch 19] loss 0.005 | train 99.9% | test 94.3%
+  epoch 20 batch 10/47 loss 0.000
+  epoch 20 batch 20/47 loss 0.000
+  epoch 20 batch 30/47 loss 0.000
+  epoch 20 batch 40/47 loss 0.000
+[epoch 20] loss 0.004 | train 99.9% | test 94.6%
+  epoch 21 batch 10/47 loss 0.000
+  epoch 21 batch 20/47 loss 0.019
+  epoch 21 batch 30/47 loss 0.000
+  epoch 21 batch 40/47 loss 0.000
+[epoch 21] loss 0.004 | train 99.9% | test 94.5%
+  epoch 22 batch 10/47 loss 0.000
+  epoch 22 batch 20/47 loss 0.000
+  epoch 22 batch 30/47 loss 0.000
+  epoch 22 batch 40/47 loss 0.000
+[epoch 22] loss 0.003 | train 99.9% | test 94.7%
+  epoch 23 batch 10/47 loss 0.000
+  epoch 23 batch 20/47 loss 0.001
+  epoch 23 batch 30/47 loss 0.000
+  epoch 23 batch 40/47 loss 0.000
+[epoch 23] loss 0.003 | train 99.9% | test 94.7%
+  epoch 24 batch 10/47 loss 0.000
+  epoch 24 batch 20/47 loss 0.021
+  epoch 24 batch 30/47 loss 0.000
+  epoch 24 batch 40/47 loss 0.000
+[epoch 24] loss 0.002 | train 100.0% | test 94.6%
+  epoch 25 batch 10/47 loss 0.001
+  epoch 25 batch 20/47 loss 0.000
+  epoch 25 batch 30/47 loss 0.000
+  epoch 25 batch 40/47 loss 0.000
+[epoch 25] loss 0.002 | train 100.0% | test 94.4%
+  epoch 26 batch 10/47 loss 0.000
+  epoch 26 batch 20/47 loss 0.000
+  epoch 26 batch 30/47 loss 0.000
+  epoch 26 batch 40/47 loss 0.018
+[epoch 26] loss 0.002 | train 100.0% | test 94.5%
+  epoch 27 batch 10/47 loss 0.018
+  epoch 27 batch 20/47 loss 0.000
+  epoch 27 batch 30/47 loss 0.000
+  epoch 27 batch 40/47 loss 0.000
+[epoch 27] loss 0.002 | train 100.0% | test 94.9%
+  epoch 28 batch 10/47 loss 0.000
+  epoch 28 batch 20/47 loss 0.000
+  epoch 28 batch 30/47 loss 0.000
+  epoch 28 batch 40/47 loss 0.000
+[epoch 28] loss 0.001 | train 100.0% | test 94.7%
+  epoch 29 batch 10/47 loss 0.000
+  epoch 29 batch 20/47 loss 0.000
+  epoch 29 batch 30/47 loss 0.000
+  epoch 29 batch 40/47 loss 0.000
+[epoch 29] loss 0.001 | train 100.0% | test 94.8%
+  epoch 30 batch 10/47 loss 0.000
+  epoch 30 batch 20/47 loss 0.000
+  epoch 30 batch 30/47 loss 0.000
+  epoch 30 batch 40/47 loss 0.000
+[epoch 30] loss 0.001 | train 100.0% | test 94.8%
+  epoch 31 batch 10/47 loss 0.000
+  epoch 31 batch 20/47 loss 0.000
+  epoch 31 batch 30/47 loss 0.000
+  epoch 31 batch 40/47 loss 0.000
+[epoch 31] loss 0.001 | train 100.0% | test 94.4%
+  epoch 32 batch 10/47 loss 0.000
+  epoch 32 batch 20/47 loss 0.000
+  epoch 32 batch 30/47 loss 0.018
+  epoch 32 batch 40/47 loss 0.000
+[epoch 32] loss 0.001 | train 100.0% | test 94.9%
+  epoch 33 batch 10/47 loss 0.000
+  epoch 33 batch 20/47 loss 0.000
+  epoch 33 batch 30/47 loss 0.000
+  epoch 33 batch 40/47 loss 0.000
+[epoch 33] loss 0.001 | train 100.0% | test 94.7%
+  epoch 34 batch 10/47 loss 0.000
+  epoch 34 batch 20/47 loss 0.000
+  epoch 34 batch 30/47 loss 0.000
+  epoch 34 batch 40/47 loss 0.000
+[epoch 34] loss 0.001 | train 100.0% | test 94.7%
+  epoch 35 batch 10/47 loss 0.000
+  epoch 35 batch 20/47 loss 0.000
+  epoch 35 batch 30/47 loss 0.000
+  epoch 35 batch 40/47 loss 0.000
+[epoch 35] loss 0.001 | train 100.0% | test 94.7%
+  epoch 36 batch 10/47 loss 0.000
+  epoch 36 batch 20/47 loss 0.000
+  epoch 36 batch 30/47 loss 0.000
+  epoch 36 batch 40/47 loss 0.000
+[epoch 36] loss 0.001 | train 100.0% | test 94.6%
+  epoch 37 batch 10/47 loss 0.000
+  epoch 37 batch 20/47 loss 0.000
+  epoch 37 batch 30/47 loss 0.000
+  epoch 37 batch 40/47 loss 0.000
+[epoch 37] loss 0.001 | train 100.0% | test 94.8%
+  epoch 38 batch 10/47 loss 0.018
+  epoch 38 batch 20/47 loss 0.000
+  epoch 38 batch 30/47 loss 0.000
+  epoch 38 batch 40/47 loss 0.000
+[epoch 38] loss 0.000 | train 100.0% | test 94.8%
+  epoch 39 batch 10/47 loss 0.000
+  epoch 39 batch 20/47 loss 0.000
+  epoch 39 batch 30/47 loss 0.000
+  epoch 39 batch 40/47 loss 0.000
+[epoch 39] loss 0.000 | train 100.0% | test 94.8%
+  epoch 40 batch 10/47 loss 0.000
+  epoch 40 batch 20/47 loss 0.000
+  epoch 40 batch 30/47 loss 0.000
+  epoch 40 batch 40/47 loss 0.000
+[epoch 40] loss 0.000 | train 100.0% | test 94.9%
+  epoch 41 batch 10/47 loss 0.000
+  epoch 41 batch 20/47 loss 0.000
+  epoch 41 batch 30/47 loss 0.000
+  epoch 41 batch 40/47 loss 0.000
+[epoch 41] loss 0.000 | train 100.0% | test 94.9%
+  epoch 42 batch 10/47 loss 0.000
+  epoch 42 batch 20/47 loss 0.000
+  epoch 42 batch 30/47 loss 0.000
+  epoch 42 batch 40/47 loss 0.000
+[epoch 42] loss 0.000 | train 100.0% | test 94.9%
+  epoch 43 batch 10/47 loss 0.000
+  epoch 43 batch 20/47 loss 0.000
+  epoch 43 batch 30/47 loss 0.000
+  epoch 43 batch 40/47 loss 0.000
+[epoch 43] loss 0.000 | train 100.0% | test 94.7%
+  epoch 44 batch 10/47 loss 0.000
+  epoch 44 batch 20/47 loss 0.000
+  epoch 44 batch 30/47 loss 0.000
+  epoch 44 batch 40/47 loss 0.000
+[epoch 44] loss 0.000 | train 100.0% | test 94.6%
+  epoch 45 batch 10/47 loss 0.000
+  epoch 45 batch 20/47 loss 0.018
+  epoch 45 batch 30/47 loss 0.000
+  epoch 45 batch 40/47 loss 0.000
+[epoch 45] loss 0.000 | train 100.0% | test 94.8%
+  epoch 46 batch 10/47 loss 0.000
+  epoch 46 batch 20/47 loss 0.000
+  epoch 46 batch 30/47 loss 0.000
+  epoch 46 batch 40/47 loss 0.000
+[epoch 46] loss 0.000 | train 100.0% | test 95.0%
+  epoch 47 batch 10/47 loss 0.000
+  epoch 47 batch 20/47 loss 0.000
+  epoch 47 batch 30/47 loss 0.000
+  epoch 47 batch 40/47 loss 0.000
+[epoch 47] loss 0.000 | train 100.0% | test 94.8%
+  epoch 48 batch 10/47 loss 0.000
+  epoch 48 batch 20/47 loss 0.000
+  epoch 48 batch 30/47 loss 0.000
+  epoch 48 batch 40/47 loss 0.000
+[epoch 48] loss 0.000 | train 100.0% | test 94.7%
+  epoch 49 batch 10/47 loss 0.000
+  epoch 49 batch 20/47 loss 0.000
+  epoch 49 batch 30/47 loss 0.000
+  epoch 49 batch 40/47 loss 0.000
+[epoch 49] loss 0.000 | train 100.0% | test 94.8%
+  epoch 50 batch 10/47 loss 0.000
+  epoch 50 batch 20/47 loss 0.000
+  epoch 50 batch 30/47 loss 0.000
+  epoch 50 batch 40/47 loss 0.000
+[epoch 50] loss 0.000 | train 100.0% | test 94.7%
+  epoch 51 batch 10/47 loss 0.000
+  epoch 51 batch 20/47 loss 0.000
+  epoch 51 batch 30/47 loss 0.000
+  epoch 51 batch 40/47 loss 0.000
+[epoch 51] loss 0.000 | train 100.0% | test 94.6%
+  epoch 52 batch 10/47 loss 0.000
+  epoch 52 batch 20/47 loss 0.000
+  epoch 52 batch 30/47 loss 0.000
+  epoch 52 batch 40/47 loss 0.000
+[epoch 52] loss 0.000 | train 100.0% | test 94.7%
+  epoch 53 batch 10/47 loss 0.000
+  epoch 53 batch 20/47 loss 0.000
+  epoch 53 batch 30/47 loss 0.198
+  epoch 53 batch 40/47 loss 0.042
+[epoch 53] loss 0.140 | train 93.5% | test 89.1%
+  epoch 54 batch 10/47 loss 0.434
+  epoch 54 batch 20/47 loss 0.313
+  epoch 54 batch 30/47 loss 0.144
+  epoch 54 batch 40/47 loss 0.192
+[epoch 54] loss 0.216 | train 97.1% | test 92.2%
+  epoch 55 batch 10/47 loss 0.081
+  epoch 55 batch 20/47 loss 0.161
+  epoch 55 batch 30/47 loss 0.141
+  epoch 55 batch 40/47 loss 0.045
+[epoch 55] loss 0.098 | train 98.8% | test 92.5%
+  epoch 56 batch 10/47 loss 0.041
+  epoch 56 batch 20/47 loss 0.041
+  epoch 56 batch 30/47 loss 0.100
+  epoch 56 batch 40/47 loss 0.049
+[epoch 56] loss 0.049 | train 98.8% | test 92.5%
+  epoch 57 batch 10/47 loss 0.059
+  epoch 57 batch 20/47 loss 0.069
+  epoch 57 batch 30/47 loss 0.030
+  epoch 57 batch 40/47 loss 0.049
+[epoch 57] loss 0.032 | train 99.4% | test 93.8%
+  epoch 58 batch 10/47 loss 0.020
+  epoch 58 batch 20/47 loss 0.019
+  epoch 58 batch 30/47 loss 0.022
+  epoch 58 batch 40/47 loss 0.001
+[epoch 58] loss 0.016 | train 99.8% | test 94.7%
+  epoch 59 batch 10/47 loss 0.001
+  epoch 59 batch 20/47 loss 0.019
+  epoch 59 batch 30/47 loss 0.020
+  epoch 59 batch 40/47 loss 0.001
+[epoch 59] loss 0.007 | train 99.9% | test 95.0%
+  epoch 60 batch 10/47 loss 0.002
+  epoch 60 batch 20/47 loss 0.001
+  epoch 60 batch 30/47 loss 0.000
+  epoch 60 batch 40/47 loss 0.000
+[epoch 60] loss 0.004 | train 99.9% | test 95.1%
+  epoch 61 batch 10/47 loss 0.000
+  epoch 61 batch 20/47 loss 0.000
+  epoch 61 batch 30/47 loss 0.000
+  epoch 61 batch 40/47 loss 0.022
+[epoch 61] loss 0.004 | train 99.9% | test 94.8%
+  epoch 62 batch 10/47 loss 0.000
+  epoch 62 batch 20/47 loss 0.001
+  epoch 62 batch 30/47 loss 0.000
+  epoch 62 batch 40/47 loss 0.018
+[epoch 62] loss 0.003 | train 99.9% | test 94.6%
+  epoch 63 batch 10/47 loss 0.000
+  epoch 63 batch 20/47 loss 0.019
+  epoch 63 batch 30/47 loss 0.001
+  epoch 63 batch 40/47 loss 0.018
+[epoch 63] loss 0.003 | train 100.0% | test 94.6%
+  epoch 64 batch 10/47 loss 0.033
+  epoch 64 batch 20/47 loss 0.012
+  epoch 64 batch 30/47 loss 0.000
+  epoch 64 batch 40/47 loss 0.000
+[epoch 64] loss 0.002 | train 100.0% | test 95.1%
+  epoch 65 batch 10/47 loss 0.000
+  epoch 65 batch 20/47 loss 0.000
+  epoch 65 batch 30/47 loss 0.000
+  epoch 65 batch 40/47 loss 0.000
+[epoch 65] loss 0.001 | train 100.0% | test 95.0%
+  epoch 66 batch 10/47 loss 0.000
+  epoch 66 batch 20/47 loss 0.001
+  epoch 66 batch 30/47 loss 0.000
+  epoch 66 batch 40/47 loss 0.000
+[epoch 66] loss 0.001 | train 100.0% | test 94.5%
+  epoch 67 batch 10/47 loss 0.000
+  epoch 67 batch 20/47 loss 0.000
+  epoch 67 batch 30/47 loss 0.000
+  epoch 67 batch 40/47 loss 0.000
+[epoch 67] loss 0.001 | train 100.0% | test 94.8%
+  epoch 68 batch 10/47 loss 0.000
+  epoch 68 batch 20/47 loss 0.000
+  epoch 68 batch 30/47 loss 0.000
+  epoch 68 batch 40/47 loss 0.000
+[epoch 68] loss 0.001 | train 100.0% | test 94.6%
+  epoch 69 batch 10/47 loss 0.000
+  epoch 69 batch 20/47 loss 0.000
+  epoch 69 batch 30/47 loss 0.000
+  epoch 69 batch 40/47 loss 0.000
+[epoch 69] loss 0.001 | train 100.0% | test 94.5%
+  epoch 70 batch 10/47 loss 0.000
+  epoch 70 batch 20/47 loss 0.000
+  epoch 70 batch 30/47 loss 0.000
+  epoch 70 batch 40/47 loss 0.000
+[epoch 70] loss 0.001 | train 100.0% | test 94.6%
+  epoch 71 batch 10/47 loss 0.000
+  epoch 71 batch 20/47 loss 0.000
+  epoch 71 batch 30/47 loss 0.000
+  epoch 71 batch 40/47 loss 0.018
+[epoch 71] loss 0.001 | train 100.0% | test 94.1%
+  epoch 72 batch 10/47 loss 0.000
+  epoch 72 batch 20/47 loss 0.000
+  epoch 72 batch 30/47 loss 0.000
+  epoch 72 batch 40/47 loss 0.000
+[epoch 72] loss 0.000 | train 100.0% | test 94.5%
+  epoch 73 batch 10/47 loss 0.000
+  epoch 73 batch 20/47 loss 0.000
+  epoch 73 batch 30/47 loss 0.000
+  epoch 73 batch 40/47 loss 0.000
+[epoch 73] loss 0.000 | train 100.0% | test 94.5%
+  epoch 74 batch 10/47 loss 0.000
+  epoch 74 batch 20/47 loss 0.000
+  epoch 74 batch 30/47 loss 0.000
+  epoch 74 batch 40/47 loss 0.000
+[epoch 74] loss 0.000 | train 100.0% | test 94.6%
+  epoch 75 batch 10/47 loss 0.000
+  epoch 75 batch 20/47 loss 0.000
+  epoch 75 batch 30/47 loss 0.000
+  epoch 75 batch 40/47 loss 0.000
+[epoch 75] loss 0.000 | train 100.0% | test 94.4%
+  epoch 76 batch 10/47 loss 0.000
+  epoch 76 batch 20/47 loss 0.000
+  epoch 76 batch 30/47 loss 0.000
+  epoch 76 batch 40/47 loss 0.000
+[epoch 76] loss 0.000 | train 100.0% | test 94.0%
+  epoch 77 batch 10/47 loss 0.000
+  epoch 77 batch 20/47 loss 0.000
+  epoch 77 batch 30/47 loss 0.000
+  epoch 77 batch 40/47 loss 0.000
+[epoch 77] loss 0.000 | train 100.0% | test 94.3%
+  epoch 78 batch 10/47 loss 0.000
+  epoch 78 batch 20/47 loss 0.000
+  epoch 78 batch 30/47 loss 0.000
+  epoch 78 batch 40/47 loss 0.000
+[epoch 78] loss 0.000 | train 100.0% | test 94.9%
+  epoch 79 batch 10/47 loss 0.000
+  epoch 79 batch 20/47 loss 0.000
+  epoch 79 batch 30/47 loss 0.000
+  epoch 79 batch 40/47 loss 0.000
+[epoch 79] loss 0.000 | train 100.0% | test 94.7%
+  epoch 80 batch 10/47 loss 0.000
+  epoch 80 batch 20/47 loss 0.000
+  epoch 80 batch 30/47 loss 0.000
+  epoch 80 batch 40/47 loss 0.000
+[epoch 80] loss 0.000 | train 100.0% | test 94.2%
+  epoch 81 batch 10/47 loss 0.000
+  epoch 81 batch 20/47 loss 0.000
+  epoch 81 batch 30/47 loss 0.000
+  epoch 81 batch 40/47 loss 0.000
+[epoch 81] loss 0.000 | train 100.0% | test 94.4%
+  epoch 82 batch 10/47 loss 0.000
+  epoch 82 batch 20/47 loss 0.000
+  epoch 82 batch 30/47 loss 0.000
+  epoch 82 batch 40/47 loss 0.000
+[epoch 82] loss 0.000 | train 100.0% | test 94.5%
+  epoch 83 batch 10/47 loss 0.000
+  epoch 83 batch 20/47 loss 0.000
+  epoch 83 batch 30/47 loss 0.000
+  epoch 83 batch 40/47 loss 0.000
+[epoch 83] loss 0.000 | train 100.0% | test 94.8%
+  epoch 84 batch 10/47 loss 0.000
+  epoch 84 batch 20/47 loss 0.000
+  epoch 84 batch 30/47 loss 0.000
+  epoch 84 batch 40/47 loss 0.000
+[epoch 84] loss 0.000 | train 100.0% | test 94.5%
+  epoch 85 batch 10/47 loss 0.000
+  epoch 85 batch 20/47 loss 0.000
+  epoch 85 batch 30/47 loss 0.000
+  epoch 85 batch 40/47 loss 0.000
+[epoch 85] loss 0.000 | train 100.0% | test 95.0%
+  epoch 86 batch 10/47 loss 0.000
+  epoch 86 batch 20/47 loss 0.000
+  epoch 86 batch 30/47 loss 0.000
+  epoch 86 batch 40/47 loss 0.000
+[epoch 86] loss 0.000 | train 100.0% | test 94.5%
+  epoch 87 batch 10/47 loss 0.000
+  epoch 87 batch 20/47 loss 0.000
+  epoch 87 batch 30/47 loss 0.000
+  epoch 87 batch 40/47 loss 0.000
+[epoch 87] loss 0.000 | train 100.0% | test 94.6%
+  epoch 88 batch 10/47 loss 0.000
+  epoch 88 batch 20/47 loss 0.000
+  epoch 88 batch 30/47 loss 0.000
+  epoch 88 batch 40/47 loss 0.000
+[epoch 88] loss 0.000 | train 100.0% | test 94.6%
+  epoch 89 batch 10/47 loss 0.000
+  epoch 89 batch 20/47 loss 0.000
+  epoch 89 batch 30/47 loss 0.000
+  epoch 89 batch 40/47 loss 0.000
+[epoch 89] loss 0.000 | train 100.0% | test 95.1%
+  epoch 90 batch 10/47 loss 0.000
+  epoch 90 batch 20/47 loss 0.000
+  epoch 90 batch 30/47 loss 0.000
+  epoch 90 batch 40/47 loss 0.000
+[epoch 90] loss 0.000 | train 100.0% | test 95.0%
+  epoch 91 batch 10/47 loss 0.000
+  epoch 91 batch 20/47 loss 0.000
+  epoch 91 batch 30/47 loss 0.000
+  epoch 91 batch 40/47 loss 0.000
+[epoch 91] loss 0.000 | train 100.0% | test 94.6%
+  epoch 92 batch 10/47 loss 0.000
+  epoch 92 batch 20/47 loss 0.000
+  epoch 92 batch 30/47 loss 0.000
+  epoch 92 batch 40/47 loss 0.000
+[epoch 92] loss 0.000 | train 100.0% | test 94.7%
+  epoch 93 batch 10/47 loss 0.000
+  epoch 93 batch 20/47 loss 0.000
+  epoch 93 batch 30/47 loss 0.000
+  epoch 93 batch 40/47 loss 0.000
+[epoch 93] loss 0.000 | train 100.0% | test 94.6%
+  epoch 94 batch 10/47 loss 0.000
+  epoch 94 batch 20/47 loss 0.000
+  epoch 94 batch 30/47 loss 0.000
+  epoch 94 batch 40/47 loss 0.000
+[epoch 94] loss 0.000 | train 100.0% | test 94.9%
+  epoch 95 batch 10/47 loss 0.000
+  epoch 95 batch 20/47 loss 0.000
+  epoch 95 batch 30/47 loss 0.000
+  epoch 95 batch 40/47 loss 0.000
+[epoch 95] loss 0.000 | train 100.0% | test 94.7%
+  epoch 96 batch 10/47 loss 0.000
+  epoch 96 batch 20/47 loss 0.000
+  epoch 96 batch 30/47 loss 0.000
+  epoch 96 batch 40/47 loss 0.000
+[epoch 96] loss 0.000 | train 100.0% | test 94.8%
+  epoch 97 batch 10/47 loss 0.000
+  epoch 97 batch 20/47 loss 0.000
+  epoch 97 batch 30/47 loss 0.000
+  epoch 97 batch 40/47 loss 0.000
+[epoch 97] loss 0.000 | train 100.0% | test 94.4%
+  epoch 98 batch 10/47 loss 0.000
+  epoch 98 batch 20/47 loss 0.000
+  epoch 98 batch 30/47 loss 0.000
+  epoch 98 batch 40/47 loss 0.000
+[epoch 98] loss 0.000 | train 100.0% | test 94.5%
+  epoch 99 batch 10/47 loss 0.000
+  epoch 99 batch 20/47 loss 0.000
+  epoch 99 batch 30/47 loss 0.000
+  epoch 99 batch 40/47 loss 0.000
+[epoch 99] loss 0.000 | train 100.0% | test 94.5%
+  epoch 100 batch 10/47 loss 0.000
+  epoch 100 batch 20/47 loss 0.000
+  epoch 100 batch 30/47 loss 0.000
+  epoch 100 batch 40/47 loss 0.000
+[epoch 100] loss 0.000 | train 100.0% | test 94.6%
+[saved] snn_mnist.pt
+[saved] fig6_training.png

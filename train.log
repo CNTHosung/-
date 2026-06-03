@@ -1,0 +1,20 @@
+[device] cpu
+[ok] 측정 곡선 로딩: 10 pts, I∈[0,9.43], f∈[0,5e+04] Hz
+[data] train=6000 test=1000
+  epoch 1 batch 10/47 loss 1.829
+  epoch 1 batch 20/47 loss 1.040
+  epoch 1 batch 30/47 loss 0.997
+  epoch 1 batch 40/47 loss 0.700
+[epoch 1] loss 1.312 | train 76.8% | test 70.4%
+  epoch 2 batch 10/47 loss 0.810
+  epoch 2 batch 20/47 loss 0.593
+  epoch 2 batch 30/47 loss 0.548
+  epoch 2 batch 40/47 loss 0.455
+[epoch 2] loss 0.570 | train 89.5% | test 84.3%
+  epoch 3 batch 10/47 loss 0.304
+  epoch 3 batch 20/47 loss 0.165
+  epoch 3 batch 30/47 loss 0.426
+  epoch 3 batch 40/47 loss 0.346
+[epoch 3] loss 0.294 | train 93.7% | test 88.7%
+[saved] snn_mnist.pt
+[saved] fig6_training.png
